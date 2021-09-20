@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e2228d-63ee-4cf6-ba86-79748253cf86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/our-works/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/our-works/our-works.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceiling/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceiling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkplitsy/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkplitsy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-works/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/our-works/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/our-works/our-works.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-works/our-works.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\bla-bla\ceiling\assets" />
       <recent name="C:\work\bla-bla\our-works" />
     </key>
   </component>
@@ -55,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631953687011</updated>
-      <workItem from="1631953688879" duration="9366000" />
+      <workItem from="1631953688879" duration="28433000" />
     </task>
     <servers />
   </component>
@@ -74,9 +80,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1631961545583">
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1631976238525">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1631961545583" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1631976238525" />
   </component>
 </project>
