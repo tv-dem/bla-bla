@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e2228d-63ee-4cf6-ba86-79748253cf86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ceiling/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ceiling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkplitsy/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkplitsy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-works/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/our-works/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-works/our-works.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-works/our-works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ceiling/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ceiling/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ceiling/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ceiling/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -62,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631953687011</updated>
       <workItem from="1631953688879" duration="28433000" />
+      <workItem from="1632382805349" duration="2235000" />
     </task>
     <servers />
   </component>
@@ -78,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1631976238525">
